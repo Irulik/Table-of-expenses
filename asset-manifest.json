@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/table-of-expenses/static/css/main.8457d966.css",
+    "main.js": "/table-of-expenses/static/js/main.274ed1f4.js",
+    "index.html": "/table-of-expenses/index.html",
+    "main.8457d966.css.map": "/table-of-expenses/static/css/main.8457d966.css.map",
+    "main.274ed1f4.js.map": "/table-of-expenses/static/js/main.274ed1f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8457d966.css",
+    "static/js/main.274ed1f4.js"
+  ]
+}
